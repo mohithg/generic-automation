@@ -1,8 +1,6 @@
 require('babel-register');
 
-var specs = process.env.TEST_FILE ? process.env.TEST_FILE : [
-  './payur/payur.js'
-];
+var specs = [ './test.js' ];
 exports.config = {
 
     //
