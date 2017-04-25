@@ -11,6 +11,7 @@
 `npm run install-selenium`
 
 # Running Tests
+- First start the selenium server using `npm run start`
 - Just run `npm test` for tests to start
 
 # Adding automation tests
